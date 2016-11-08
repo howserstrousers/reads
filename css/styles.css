@@ -45,4 +45,217 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+
+img{
+	width:100%;
+}
+
+html{
+	font-size: 12px;
+	font-family: sans-serif;
+}
+
+h1{
+	font-size: 3rem
+}
+
+h2{
+	font-size: 2rem
+}
+
+h3{
+	font-size: 1rem
+}
+
+a{
+	text-decoration: none;
+}
+
+a:visited{
+	color:black;
+}
+
+.whole{
+	width:98%;
+	padding: 1%;
+	min-height:100%;
+	margin-bottom:-150px;
+
+
+}
+
+.header{
+	margin:0 auto;
+	width:98%;
+	margin-bottom: 2%;
+	padding: 1%;
+	border:2px solid black; 
+	display:inline-block;
+}
+
+.header p{
+	float:left;
+}
+
+.header-menu{
+	width:25%;
+	float:left;
+}
+
+.header-logo{
+	width:75%;
+	margin:0 auto;
+	text-align: center;
+	padding:2%;
+}
+
+.header-logo img{
+	margin:0 auto;
+	width:60%;
+
+}
+
+.navigation{
+
+}
+
+#main{
+}
+
+#main-photo{
+	margin:0 auto;
+	margin-top:4%;
+	clear:both;
+	padding:20%;
+	border:2px solid black;
+}
+
+.copywrap{
+	width:100%;
+	margin-top: 1%; 
+	border-top:2px solid black;
+	border-bottom:2px solid black;
+	padding-top:2%;
+	padding-bottom:2%;
+	overflow: hidden;
+	display: flex;
+
+}
+.copyL{
+	border-right: 2px solid black;
+
+}
+
+.copy{
+	width:50%;
+	margin:0 auto;
+	height:100%;
+	float:left;
+	text-align: center;
+	flex:1;
+}
+
+.options{
+	width:70%;
+	margin:0 auto;
+	margin-top: 4%; 
+	padding-top:2%;
+	padding-bottom:2%;
+	border-top:2px solid black;
+	border-bottom:2px solid black;
+	overflow: hidden;
+	text-align: center;
+}
+
+.options:hover{
+	border-left: 2px solid black;
+	border-right: 2px solid black;
+	color:red;
+}
+
+.footer{
+	height:150px;
+	width:100%;
+	margin-top:80%;
+	bottom:0;
+	border-top:2px solid black; 
+	display:inline-block;
+}
+
+/*boxes page*/
+
+#boxes-main-photo{
+	margin:0 auto;
+	margin-top:4%;
+	clear:both;
+	padding:5%;
+	border:2px solid black;
+}
+
+#boxes-main-photo h2{
+	border:2px solid black;
+	padding: 1%;
+
+}
+
+.get{
+	width:30%;
+	text-align:center;
+	border-top:2px solid black;
+	border-bottom:2px solid black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </style>
